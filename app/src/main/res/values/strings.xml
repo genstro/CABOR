@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CABOR</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="list">List View</string>
+    <string name="cardview">Card View</string>
+    <string name="about">About</string>
+    <string name="detail">Detail</string>
+    <string name="sports_name">Cabang Olahraga</string>
+    <string name="todo">TODO</string>
+    <string name="nama">Kevin Oktavianov Abdurohman</string>
+    <string name="email">kevinoktavianov.abd@gmail.com</string>
+</resources>
